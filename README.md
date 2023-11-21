@@ -6,7 +6,7 @@ A google drive based store class for [whatsapp-web.js](https://www.npmjs.com/pac
 
 Modelled after this: [wwebjs-mongo](https://github.com/jtouris/wwebjs-mongo).
 
-An alternative implementation using `LocalAuth` for authentication. I had  issues with `remoteAuth' and `LocalAuth` seems more legacy. See the 'driveClient.js' file for a more extended implementation. Designed to work with Heroku's ephermeral file system setup.
+An alternative implementation using google Drive and `LocalAuth` for authentication. I had  issues with `remoteAuth' and `LocalAuth` seems more legacy. See the 'driveClient.js' file for a more extended implementation. Designed to work with Heroku's ephermeral file system setup.
 
 ## Implementation
 
