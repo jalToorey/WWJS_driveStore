@@ -1,4 +1,4 @@
-# Project Title
+# wwwjs-driveStore
 
 A google drive based store class for [whatsapp-web.js](https://www.npmjs.com/package/whatsapp-web.js)
 
